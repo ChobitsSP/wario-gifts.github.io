@@ -1,5 +1,6 @@
 module.exports = {
   assetsDir: 'static',
+  publicPath: 'wario-gifts.github.io',
   outputDir: 'docs',
   productionSourceMap: false,
   runtimeCompiler: true,
