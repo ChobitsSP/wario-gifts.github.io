@@ -1,5 +1,6 @@
 module.exports = {
   assetsDir: 'static',
+  outputDir: 'docs',
   productionSourceMap: false,
   runtimeCompiler: true,
   pages: {
